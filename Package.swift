@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "CodeScanner",
     platforms: [
-      .iOS(.v13),
+      .iOS(.v17),
       .macOS(.v11)
     ],
     products: [
